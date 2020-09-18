@@ -1,3 +1,3 @@
-vowels = ['a', 'e', 'i', 'o', 'i', 'u']
-count = vowels.count('i')
-print(count)
+s = 'aaa1S&!|'
+for i in s:
+    print(i.isalnum())
